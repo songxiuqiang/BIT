@@ -1,2 +1,2 @@
 # BIT
-The sources codes of BIT.
+The source code for BIT is being prepared and will be coming soon.
