@@ -1,0 +1,12 @@
+
+numpy==1.25.0
+tqdm
+opencv-python
+imageio
+scikit-image
+pycocotools
+matplotlib
+onnxruntime
+onnx
+pyyaml
+# git+https://github.com/facebookresearch/segment-anything.git

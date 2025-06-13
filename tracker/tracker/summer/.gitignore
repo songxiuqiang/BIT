@@ -1,0 +1,11 @@
+.*
+!.gitignore
+
+bin/
+build/
+cmake-build-debug/
+cmake-build-release/
+
+history/
+
+shell/
